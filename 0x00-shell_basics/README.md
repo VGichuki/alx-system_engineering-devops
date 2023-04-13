@@ -1,1 +1,1 @@
-0x00-shell_basics readme
+display the contents list in a long format
